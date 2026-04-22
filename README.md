@@ -11,17 +11,18 @@ Lee respuesta
 Cierra conexión
 
 ## Métodos en una solicitud HTTP
-GET
-POST
-PUT (UPDATE)
-DELETE
-Tú puedes describir en tu solicitud HTTP qué tipo de valor esperas, ejemplo JSON (en bases de datos) o mp4 para el caso de videos.
+* GET
+* POST
+* PUT (UPDATE)
+* DELETE
+
+**Tú puedes describir en tu solicitud HTTP qué tipo de valor esperas, ejemplo JSON (en bases de datos) o mp4 para el caso de videos.**
 
 En Javascript, podemos implementar consultas a servidor a través de:
-Uso de librerías como jQuery
-APIs de Javascript:
-AJAX / XMLHttpRequest (Es un estándar que tiene soporte de navegadores anteriores y actuales)
-Fetch (esto es lo más nuevo y es basado en promesas, es decir, funciones asíncronas que realizan una operación y tienen un retorno de un valor resultante como completado o fallo)
+- Uso de librerías como jQuery
+- APIs de Javascript:
+- AJAX / XMLHttpRequest (Es un estándar que tiene soporte de navegadores anteriores y actuales)
+- Fetch (esto es lo más nuevo y es basado en promesas, es decir, funciones asíncronas que realizan una operación y tienen un retorno de un valor resultante como completado o fallo)
 
 ## Estructura de una Solicitud
 Cabecera
