@@ -37,7 +37,9 @@ Path (Ruta)
 La dirección del recurso a consultar
 
 Códigos de respuestas de Solicitudes
+
 | Codigo | Descripción |
+| ------------- | ------------- |
 | 100 -199 | Informativas |
 | 200 - 299 | Exitosas |
 | 300 - 399  | Redirecciones |
